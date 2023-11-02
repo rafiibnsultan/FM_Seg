@@ -32,7 +32,7 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 
 ## <div id="#SAMGeo"> </div>SAM-based Geographical Segmentation Related
 * The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot <a href="https://arxiv.org/abs/2306.16623">paper</a>
-* 
+* Interactive segmentation in aerial images: a new benchmark and an open access web-based tool <a href="https://arxiv.org/abs/2308.13174">paper</a>
 
 ## <div id="#SAM"> </div>SAM-based approaches Related
 * Segment Anything <a href="https://arxiv.org/abs/2304.02643">paper</a>
