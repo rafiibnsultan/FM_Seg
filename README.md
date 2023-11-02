@@ -15,11 +15,11 @@ Foundation models such as this, which have shown promising advancements in NLP a
 SAM’s ability to generalize across a wide range of objects and images makes it particularly appealing for Geographical Image applications.
 
 # Table of Contents:
-* Geographical Image Segmentation Related (#Geo)
+* <a href="#Geo">Geographical Image Segmentation Related</a>
 * SAM-based Geographical Segmentation Related (#SAMGeo)
 * SAM-based approaches Related (SAM)
 * Others Related (#Others)
 
-# Geographical Image Segmentation Related (#Geo)
+# <div id="#Geo">Geographical Image Segmentation Related </div>
 # SAM-based Geographical Segmentation Related (#SAMGeo)
 
