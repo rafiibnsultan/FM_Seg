@@ -23,29 +23,27 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 * <a href="#datasets">Datasets</a>
 * <a href="#Others">Others Related</a>
 
-## <div id="#Geo">Geographical Image Segmentation Related </div>
+## <div id="#Geo"> </div>Geographical Image Segmentation Related
 * Mapping the Walk: A Scalable Computer Vision Approach for Generating Sidewalk Network Datasets from Aerial Imagery <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4086624">paper</a>
 * A Billion-scale Foundation Model for Remote Sensing Images <a href="https://arxiv.org/abs/2304.05215">paper</a>
 * Towards Global-Scale Crowd+AI Techniques to Map and Assess Sidewalks for People with Disabilities <a href="https://arxiv.org/abs/2206.13677">paper</a>
 
-## <div id="#SAMGeo">SAM-based Geographical Segmentation Related </div>
+## <div id="#SAMGeo"> </div>SAM-based Geographical Segmentation Related
 * The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot <a href="https://arxiv.org/abs/2306.16623">paper</a>
 
-## <div id="#SAM">SAM-based approaches Related </div>
+## <div id="#SAM"> </div>SAM-based approaches Related
 * Segment Anything <a href="https://arxiv.org/abs/2304.02643">paper</a>
 * Personalize Segment Anything Model with One Shot <a href="https://arxiv.org/abs/2305.03048">paper</a>
 * Segment Anything in Medical Images <a href="https://arxiv.org/abs/2304.12306">paper</a>
 * SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More <a href="https://arxiv.org/abs/2304.09148">paper</a>
 
-## <div id="#Datasets">Datasets</div>
+## <div id="#Datasets"></div>Datasets
 * Washington DC GIS <a href="https://opendata.dc.gov/explore?collection=Dataset">link</a>
 
   
-## <div id="#Others">Others Related</div>
+## <div id="#Others"></div>Others Related
 * An image is worth 16x16 words: Trans- 660 formers for image recognition at scale
 * On the Opportunities and Risks of Foundation Models <a href="https://arxiv.org/abs/2108.07258">paper</a>
 * On the effectiveness of 664 parameter-efficient fine-tuning <a href="https://arxiv.org/abs/2211.15583">paper</a>
-* 
-* 
 
 
