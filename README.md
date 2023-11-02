@@ -16,10 +16,12 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 
 # Table of Contents:
 * <a href="#Geo">Geographical Image Segmentation Related</a>
-* SAM-based Geographical Segmentation Related (#SAMGeo)
-* SAM-based approaches Related (SAM)
-* Others Related (#Others)
+* <a href="#SAMGeo">SAM-based Geographical Segmentation Related</a>
+* <a href="#SAM">SAM-based approaches Related</a>
+* <a href="#Others">Others Related</a>
 
-# <div id="#Geo">Geographical Image Segmentation Related </div>
-# SAM-based Geographical Segmentation Related (#SAMGeo)
+## <div id="#Geo">Geographical Image Segmentation Related </div>
+## <div id="#SAMGeo">SAM-based Geographical Segmentation Related </div>
+## <div id="#SAM">SAM-based approaches Related </div>
+## <div id="#Others">Others Related</div>
 
