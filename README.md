@@ -21,7 +21,11 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 * <a href="#Others">Others Related</a>
 
 ## <div id="#Geo">Geographical Image Segmentation Related </div>
+* Mapping the Walk: A Scalable Computer Vision Approach for Generating Sidewalk Network Datasets from Aerial Imagery <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4086624">paper</a>
+* A Billion-scale Foundation Model for Remote Sensing Images <a href="https://arxiv.org/abs/2304.05215">paper</a>
 ## <div id="#SAMGeo">SAM-based Geographical Segmentation Related </div>
+* The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot <a href="https://arxiv.org/abs/2306.16623">paper</a>
 ## <div id="#SAM">SAM-based approaches Related </div>
+* Personalize Segment Anything Model with One Shot <a href="https://arxiv.org/abs/2305.03048">paper</a>
 ## <div id="#Others">Others Related</div>
 
