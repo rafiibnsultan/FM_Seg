@@ -14,6 +14,8 @@ Segment Anything Model (SAM) has been trained on an enormous dataset, of 11 mill
 Foundation models such as this, which have shown promising advancements in NLP and, more recently, in computer vision, can carry out zero-shot learning. This means they can learn from new datasets and perform new tasks often by utilizing ’prompting’ techniques, even with little to no previous exposure to these tasks.
 SAM’s ability to generalize across a wide range of objects and images makes it particularly appealing for Geographical Image applications.
 
+<img src="Figs/SAM.png" alt="SAM">
+
 # Table of Contents:
 * <a href="#Geo">Geographical Image Segmentation Related</a>
 * <a href="#SAMGeo">SAM-based Geographical Segmentation Related</a>
