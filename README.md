@@ -28,4 +28,5 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 ## <div id="#SAM">SAM-based approaches Related </div>
 * Personalize Segment Anything Model with One Shot <a href="https://arxiv.org/abs/2305.03048">paper</a>
 ## <div id="#Others">Others Related</div>
+* Segment Anything in Medical Images <a href="https://arxiv.org/abs/2304.12306">paper</a>
 
