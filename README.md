@@ -24,6 +24,8 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 * <a href="#Others">Others Related</a>
 
 ## <div id="#Geo"> </div>Geographical Image Segmentation Related
+These papers are task-specific, focusing on geographical image segmentation.
+
 * Mapping the Walk: A Scalable Computer Vision Approach for Generating Sidewalk Network Datasets from Aerial Imagery <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4086624">paper</a>
 * A Billion-scale Foundation Model for Remote Sensing Images <a href="https://arxiv.org/abs/2304.05215">paper</a>
 * Towards Global-Scale Crowd+AI Techniques to Map and Assess Sidewalks for People with Disabilities <a href="https://arxiv.org/abs/2206.13677">paper</a>
@@ -31,23 +33,27 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 * AutoML-Based Neural Architecture Search for Object Recognition in Satellite Imagery <a href="https://www.mdpi.com/2072-4292/15/1/91">paper</a>
 
 ## <div id="#SAMGeo"> </div>SAM-based Geographical Segmentation Related
+These papers are SAM-based works that have been focusing on geographical segmentation on various tasks.
 * The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot <a href="https://arxiv.org/abs/2306.16623">paper</a>
 * Interactive segmentation in aerial images: a new benchmark and an open access web-based tool <a href="https://arxiv.org/abs/2308.13174">paper</a>
 
 ## <div id="#SAM"> </div>SAM-based approaches Related
+These papers focus on various SAM-based approaches that are various segmentation domains that can be reproduced or upgraded in other segmentation-related tasks.
 * Segment Anything <a href="https://arxiv.org/abs/2304.02643">paper</a>
 * Personalize Segment Anything Model with One Shot <a href="https://arxiv.org/abs/2305.03048">paper</a>
 * Segment Anything in Medical Images <a href="https://arxiv.org/abs/2304.12306">paper</a>
 * SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More <a href="https://arxiv.org/abs/2304.09148">paper</a>
+* SAM-Med2D <a href="https://arxiv.org/abs/2308.16184">paper</a>
 
 ## <div id="#Datasets"></div>Datasets
 * Washington DC GIS <a href="https://opendata.dc.gov/explore?collection=Dataset">link</a>
 
   
 ## <div id="#Others"></div>Others Related
+These papers are other important works all related to our focus.
 * An image is worth 16x16 words: Trans- 660 formers for image recognition at scale
 * On the Opportunities and Risks of Foundation Models <a href="https://arxiv.org/abs/2108.07258">paper</a>
 * On the effectiveness of 664 parameter-efficient fine-tuning <a href="https://arxiv.org/abs/2211.15583">paper</a>
-* SAM-Med2D <a href="https://arxiv.org/abs/2308.16184">paper</a>
+* How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images <a href="https://arxiv.org/abs/2306.13731">paper</a>
 
 
