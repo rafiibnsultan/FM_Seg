@@ -48,6 +48,6 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 * An image is worth 16x16 words: Trans- 660 formers for image recognition at scale
 * On the Opportunities and Risks of Foundation Models <a href="https://arxiv.org/abs/2108.07258">paper</a>
 * On the effectiveness of 664 parameter-efficient fine-tuning <a href="https://arxiv.org/abs/2211.15583">paper</a>
-* SAM-Med2D <a href="[https://arxiv.org/abs/2211.15583](https://arxiv.org/abs/2308.16184)https://arxiv.org/abs/2308.16184">paper</a>
+* SAM-Med2D <a href="https://arxiv.org/abs/2308.16184">paper</a>
 
 
