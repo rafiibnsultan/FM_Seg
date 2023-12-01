@@ -1,7 +1,7 @@
 # Geo_Segmentation_SAM
 Hello.
 
-I've created this page that compiles a selection of helpful papers for my ongoing study on Pedestrian Infrastructure Segmentation. I often refer to these papers in my research. Please feel free to make use of them if they relate to your interests.
+I've developed this webpage that gathers various useful papers for my ongoing research on Infrastructure Segmentation in Geographical Images. This compilation can be applied to diverse segmentation areas. I've curated papers that catch my interest or resonate with my research, serving as a reference point for me. Feel free to utilize them if they align with your interests.
 
 # Background:
 
@@ -20,7 +20,7 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 * <a href="#Geo">Geographical Image Segmentation Related</a>
 * <a href="#SAMGeo">SAM-based Geographical Segmentation Related</a>
 * <a href="#SAM">SAM-based approaches Related</a>
-* <a href="#datasets">Datasets</a>
+* <a href="#techniques">Innovative Techniques</a>
 * <a href="#Others">Others Related</a>
 
 ## <div id="#Geo"> </div>Geographical Image Segmentation Related
@@ -45,8 +45,8 @@ These papers focus on various SAM-based approaches that are various segmentation
 * SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More <a href="https://arxiv.org/abs/2304.09148">paper</a>
 * SAM-Med2D <a href="https://arxiv.org/abs/2308.16184">paper</a>
 
-## <div id="#Datasets"></div>Datasets
-* Washington DC GIS <a href="https://opendata.dc.gov/explore?collection=Dataset">link</a>
+## <div id="#techniques"></div>Innovative Techniques
+* Multi-Object Representation Learning via Feature Connectivity and Object-Centric Regularization <a href="https://openreview.net/pdf?id=BDno5qWEFh">link</a>
 
   
 ## <div id="#Others"></div>Others Related
