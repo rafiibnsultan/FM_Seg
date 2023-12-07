@@ -46,6 +46,7 @@ These papers focus on various SAM-based approaches that are various segmentation
 * SAM-Med2D <a href="https://arxiv.org/abs/2308.16184">paper</a>
 
 ## <div id="#techniques"></div>Innovative Techniques
+* Learning Transferable Visual Models From Natural Language Supervision <a href="https://arxiv.org/pdf/2103.00020.pdf">link</a>
 * Multi-Object Representation Learning via Feature Connectivity and Object-Centric Regularization <a href="https://openreview.net/pdf?id=BDno5qWEFh">link</a>
 
   
