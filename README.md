@@ -13,6 +13,7 @@ SAM’s ability to generalize across a wide range of objects and images makes it
 * <a href="#FM_Med">FM-Based Medical Image Segmentation
   * <a href="#Med">Medical Image Segmentation Related</a>
   * <a href="#VLM">VLM-Based Medical Image Segmentation Related</a>
+  * <a href="#VLM_SAM">VLM SAM-Based Medical Image Segmentation Related</a>
 * <a href="#FM_Geo">FM-Based Geographical Image Segmentation
   * <a href="#Geo">Geographical Image Segmentation Related</a>
   * <a href="#SAMGeo">SAM-based Geographical Segmentation Related</a>
@@ -30,6 +31,11 @@ The objective of medical image segmentation is to delineate anatomical or pathol
 ## <div id="#VLM"> </div>VLM-Based Medical Image Segmentation Related
 Traditionally, AI models have been tailored to process single data modalities, focusing either on visual or textual information. This singular approach stands in stark contrast to the inherently multi-modal method employed by medical practitioners, who rely on a combination of imaging studies and textual electronic medical records to make informed decisions.
 * LLM-driven Multimodal Target Volume Contouring in Radiation Oncology <a href="https://arxiv.org/abs/2306.13731">paper</a>
+
+## <div id="#VLM"> </div>VLM-Based Medical Image Segmentation Related
+Using text prompts, SAM can adapt to VLM-based segmentation as well.
+* Increasing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation <a href="https://arxiv.org/abs/2402.15759">paper</a>
+* CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks <a href="https://arxiv.org/abs/2304.05653">paper</a>
 
 # FM-Based Geographical Image Segmentation
 ## Problem:
@@ -68,5 +74,8 @@ These papers are other important works all related to our focus.
 * An image is worth 16x16 words: Trans- 660 formers for image recognition at scale
 * On the Opportunities and Risks of Foundation Models <a href="https://arxiv.org/abs/2108.07258">paper</a>
 * On the effectiveness of parameter-efficient fine-tuning <a href="https://arxiv.org/abs/2211.15583">paper</a>
+* Segment Everything Everywhere All at Once <a href="https://arxiv.org/abs/2304.06718">paper</a>
+* Learning to Prompt Segment Anything Models <a href="https://arxiv.org/abs/2401.04651">paper</a>
+* SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation <a href="https://arxiv.org/abs/2308.08746">paper</a>
 
 
