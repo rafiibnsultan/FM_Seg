@@ -1,9 +1,10 @@
-# Geo_Segmentation_SAM
+# Foundation Model-Based Image Segmentation
 Hello.
 
-I've developed this webpage that gathers various useful papers for my ongoing research on Infrastructure Segmentation in Geographical Images. This compilation can be applied to diverse segmentation areas. I've curated papers that catch my interest or resonate with my research, serving as a reference point for me. Feel free to utilize them if they align with your interests.
+I've developed this webpage that gathers various useful papers for my ongoing research on Foundation Model (FM) Based Segmentation. This compilation can be applied to diverse segmentation areas. I've curated papers that catch my interest or resonate with my research, serving as a reference point for me. Feel free to utilize them if they align with your interests.
 
-# Background:
+# FM Based Geographical Segmentation
+## Background:
 
 ## Problem:
 <p class="justified-text">While extensive research has been dedicated to the segmentation of road infrastructure in geographical imagery like aerial and satellite pictures, there has been notably less emphasis on pedestrian infrastructure, such as sidewalks and crosswalks, despite its significant importance in our daily lives. Therefore, accurately segmenting both road and pedestrian infrastructures could yield valuable insights into accessible pedestrian pathways and trip destinations. This segmentation capability can effectively turned into creating a full-scalable pedestrian network.</p>
