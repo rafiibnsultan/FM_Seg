@@ -1,7 +1,7 @@
 # Foundation Model-Based Image Segmentation
 Hello.
 
-I've developed this webpage that gathers various useful papers for my ongoing research on Foundation Model (FM) Based Segmentation. This compilation can be applied to diverse segmentation areas. I've curated papers that catch my interest or resonate with my research, serving as a reference point for me. Feel free to utilize them if they align with your interests.
+I've developed this webpage that gathers various useful papers for my ongoing research on Foundation Model (FM) Based Segmentation. This compilation can be applied to diverse segmentation areas. I've curated papers that catch my interest or resonate with my research, serving as a reference point for me. Feel free to utilize them if they align with your interests. A survey focusing on FM-based approaches focusing on Geographical Images and Medical Images have been created for my recent PhD qualifying exam. You can find it <a href="Qual_Rafi.pdf" alt="here">: 
 
 # FM Based Geographical Segmentation
 ## Background:
