@@ -3,26 +3,38 @@ Hello.
 
 I've developed this webpage that gathers various useful papers for my ongoing research on Foundation Model (FM) Based Segmentation. This compilation can be applied to diverse segmentation areas. I've curated papers that catch my interest or resonate with my research, serving as a reference point for me. Feel free to utilize them if they align with your interests. A survey focusing on FM-based approaches focusing on Geographical Images and Medical Images have been created for my recent PhD qualifying exam. You can find it <a href="Qual_Rafi.pdf">here as well. 
 
-# FM Based Geographical Segmentation
 ## Background:
-
-## Problem:
-<p class="justified-text">While extensive research has been dedicated to the segmentation of road infrastructure in geographical imagery like aerial and satellite pictures, there has been notably less emphasis on pedestrian infrastructure, such as sidewalks and crosswalks, despite its significant importance in our daily lives. Therefore, accurately segmenting both road and pedestrian infrastructures could yield valuable insights into accessible pedestrian pathways and trip destinations. This segmentation capability can effectively turned into creating a full-scalable pedestrian network.</p>
-<img src="Figs/Segment.jpg" alt="Segment Pipeline">
-
-## Foundation Model (SAM):
 Segment Anything Model (SAM) <a href="https://arxiv.org/abs/2304.02643">link</a> has been trained on an enormous dataset, of 11 million images and 1.1 billion masks, and it boasts impressive zero-shot performance on already a variety of segmentation tasks.
 Foundation models such as this, which have shown promising advancements in NLP and, more recently, in computer vision, can carry out zero-shot learning. This means they can learn from new datasets and perform new tasks often by utilizing ’prompting’ techniques, even with little to no previous exposure to these tasks.
 SAM’s ability to generalize across a wide range of objects and images makes it particularly appealing for Geographical Image applications.
-
 <img src="Figs/SAM.png" alt="SAM">
 
 # Table of Contents:
-* <a href="#Geo">Geographical Image Segmentation Related</a>
-* <a href="#SAMGeo">SAM-based Geographical Segmentation Related</a>
-* <a href="#SAM">SAM-based approaches Related</a>
-* <a href="#techniques">Innovative Techniques</a>
+* <a href="#FM_Med">FM-Based Medical Image Segmentation
+  * <a href="#Med">Medical Image Segmentation Related</a>
+  * <a href="#VLM">VLM-Based Medical Image Segmentation Related</a>
+* <a href="#FM_Geo">FM-Based Geographical Image Segmentation
+  * <a href="#Geo">Geographical Image Segmentation Related</a>
+  * <a href="#SAMGeo">SAM-based Geographical Segmentation Related</a>
+  * <a href="#SAM">SAM-based approaches Related</a>
+  * <a href="#techniques">Innovative Techniques</a>
 * <a href="#Others">Others Related</a>
+
+# FM-Based Medical Image Segmentation
+## <div id="#Med"> </div>Medical Image Segmentation Related
+The objective of medical image segmentation is to delineate anatomical or pathological structures within tissues, aiding in computer-assisted diagnostics and advanced surgical procedures.
+
+* How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images <a href="https://arxiv.org/abs/2311.01908">paper</a>
+* RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization <a href="https://arxiv.org/abs/2311.15876">paper</a>
+
+## <div id="#VLM"> </div>VLM-Based Medical Image Segmentation Related
+Traditionally, AI models have been tailored to process single data modalities, focusing either on visual or textual information. This singular approach stands in stark contrast to the inherently multi-modal method employed by medical practitioners, who rely on a combination of imaging studies and textual electronic medical records to make informed decisions.
+* LLM-driven Multimodal Target Volume Contouring in Radiation Oncology <a href="https://arxiv.org/abs/2306.13731">paper</a>
+
+# FM-Based Geographical Image Segmentation
+## Problem:
+<p class="justified-text">While extensive research has been dedicated to the segmentation of road infrastructure in geographical imagery like aerial and satellite pictures, there has been notably less emphasis on pedestrian infrastructure, such as sidewalks and crosswalks, despite its significant importance in our daily lives. Therefore, accurately segmenting both road and pedestrian infrastructures could yield valuable insights into accessible pedestrian pathways and trip destinations. This segmentation capability can effectively turned into creating a full-scalable pedestrian network.</p>
+<img src="Figs/Segment.jpg" alt="Segment Pipeline">
 
 ## <div id="#Geo"> </div>Geographical Image Segmentation Related
 These papers are task-specific, focusing on geographical image segmentation.
@@ -51,11 +63,10 @@ These papers focus on various SAM-based approaches that are various segmentation
 * Multi-Object Representation Learning via Feature Connectivity and Object-Centric Regularization <a href="https://openreview.net/pdf?id=BDno5qWEFh">link</a>
 
   
-## <div id="#Others"></div>Others Related
+# <div id="#Others"></div>Others Related
 These papers are other important works all related to our focus.
 * An image is worth 16x16 words: Trans- 660 formers for image recognition at scale
 * On the Opportunities and Risks of Foundation Models <a href="https://arxiv.org/abs/2108.07258">paper</a>
-* On the effectiveness of 664 parameter-efficient fine-tuning <a href="https://arxiv.org/abs/2211.15583">paper</a>
-* How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images <a href="https://arxiv.org/abs/2306.13731">paper</a>
+* On the effectiveness of parameter-efficient fine-tuning <a href="https://arxiv.org/abs/2211.15583">paper</a>
 
 
